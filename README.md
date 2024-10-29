@@ -61,7 +61,7 @@ This project focuses on analyzing and predicting stock market data from the New 
 
 ## Contributors
 
-[Your Name]
+Revanth Adurti
 
 ## License
 
